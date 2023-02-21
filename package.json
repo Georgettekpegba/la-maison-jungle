@@ -1,6 +1,6 @@
 {
   "name": "la_maison_jungle",
-  "homepage": "https://Georgettekpegba.github.io/la_maison_jungle",
+  "homepage": "https://Georgettekpegba.github.io/la-maison-jungle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
